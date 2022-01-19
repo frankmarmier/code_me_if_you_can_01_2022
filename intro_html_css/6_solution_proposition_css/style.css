@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,400;1,500&display=swap");
+
+* {
+  box-sizing: border-box;
+  /* border: 1px solid fuchsia; */
+}
+
+body {
+  margin: 0;
+  padding: 10px 20px;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+.color-blue {
+  color: blue;
+}
+
+.color-green {
+  color: green;
+}
+
+.color-yellow {
+  color: yellow;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.image {
+  border-radius: 80px;
+}
+
+.big-text {
+  font-size: 40px;
+}
