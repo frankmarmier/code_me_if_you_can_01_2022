@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.recette {
+  display: flex;
+}
+
+.informations {
+  display: flex;
+  list-style-type: none;
+}
+
+.image-recette {
+  max-width: 320px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.information-item {
+  margin-right: 10px;
+}
+
+.black {
+  color: black;
+}
+
+.steps {
+  color: pink;
+}
+
+.quantity {
+  display: inline;
+  padding: 0;
+  list-style-type: none;
+}
+
+.quantity li {
+  display: inline;
+}
